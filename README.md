@@ -15,7 +15,7 @@ C | C++ | Python | HTML | CSS | JavaScript | Git | GitHub
   ### 📚 Current Focus
 - Writing clearer, modular C++ and Python code  
 - Making small web demos that are easy to run and share  
-- Learning best practices for version control and collaboration
+- Learning best practices for version control and collaboration.
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ashwinicodes) | [Email](mailto:asahwiniprohit@gmail.com)
