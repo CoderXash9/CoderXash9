@@ -18,4 +18,4 @@ C | C++ | Python | HTML | CSS | JavaScript | Git | GitHub
 - Learning best practices for version control and collaboration
 
 ### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/ashwini-purohit) | [Email](mailto:yourmail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ashwinicodes) | [Email](mailto:asahwiniprohit@gmail.com)
