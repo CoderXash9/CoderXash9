@@ -9,7 +9,7 @@
 C | C++ | Python | HTML | CSS | JavaScript | Git | GitHub
 
 ### 📂 Featured Projects
-- 🧮 [Calculator App](https://github.com/CoderXash9/Calculator-starting-) — A beginner-friendly calculator built with HTML, CSS, and JS
+- 🧮 [Calculator Website](https://github.com/CoderXash9/Calculator-starting-) — A beginner-friendly calculator built with HTML, CSS, and JS
 - 🌐 [Portfolio Website](#) — Coming soon!
 
   ### 📚 Current Focus
