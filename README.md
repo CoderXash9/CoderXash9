@@ -28,7 +28,6 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/CoderXash9/PureCalc?style=flat-square)
   ![GitHub license](https://img.shields.io/github/license/CoderXash9/PureCalc?style=flat-square)
 
-- 🌐 [Portfolio Website](#) — Coming soon!
 
 ---
 
