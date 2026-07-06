@@ -145,9 +145,9 @@ SYSTEM STATUS
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CoderXash9&show_icons=true&theme=tokyonight&hide_border=true"/>
+[<img height="170" src="https://github-readme-stats.vercel.app/api?username=CoderXash9&show_icons=true&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api?username=CoderXash9&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderXash9&theme=tokyonight&hide_border=true"/>
+[<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderXash9&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=CoderXash9&theme=tokyonight&hide_border=true)
 
 </p>
 
@@ -163,7 +163,7 @@ SYSTEM STATUS
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>](https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight)
 
 </p>
 
