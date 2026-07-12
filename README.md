@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Ashwini Purohit
 
-<img align="right" src="./.github/profile.jpg" width="180" style="border-radius:50%;border:4px dotted #58a6ff;" />
+<img align="right" src="profile.png" width="180">
 
 ### 🚀 Software Engineering Student | Backend Developer | Open Source Enthusiast
 
