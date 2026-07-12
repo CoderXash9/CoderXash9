@@ -1,49 +1,198 @@
-# 👋 Hi, I'm Ashwini Purohit
+<div align="center">
 
-🎓 B.Tech (CSE) III-Sem @ JECRC University  
-💻 💡 I enjoy shaping ideas into clean, working code — blending logic from C++ and Python with a touch of creativity in web development.  
-🚀 Aspiring Software Engineer @ Atlassian  
-🧠 Learning C++, Python, and exploring Open Source  
+# Hi 👋 I'm Ashwini Purohit
 
----
+<img align="right" src="./.github/profile.jpg" width="180" style="border-radius:50%;border:4px dotted #58a6ff;" />
 
-### 🛠 Tech Stack & Tools
+### 🚀 Software Engineering Student | Backend Developer | Open Source Enthusiast
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Developer;C%2B%2B+Programmer;Django+Learner;Open+Source+Contributor;Future+Software+Engineer+@+Atlassian" />
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=CoderXash9&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-### 📂 Featured Projects
+# 💫 About Me
 
-- 🧮 [PureCalc](https://github.com/CoderXash9/PureCalc) — A clean and modern calculator built using HTML, CSS, and JS  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/CoderXash9/PureCalc?style=flat-square)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/CoderXash9/PureCalc?style=flat-square)
-  ![GitHub license](https://img.shields.io/github/license/CoderXash9/PureCalc?style=flat-square)
+🎓 B.Tech CSE @ JECRC University
 
+💻 Backend Developer
 
----
+🐍 Python | C++ | Django
 
-### 📚 Current Focus
-- Writing cleaner, modular C++ and Python code  
-- Making small web demos that are easy to run and share  
-- Learning best practices for version control and collaboration.
+🌱 Currently Learning
 
----
+- Advanced DSA
+- Django
+- REST APIs
+- Open Source
 
-### 🤝 Connect with Me
+🎯 Goal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinicodes)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asahwiniprohit@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderXash9)
+> Become a Software Engineer at Atlassian.
 
 ---
 
-⭐ *"Turning caffeine into code and ideas into impact."* ☕  
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ashwinicodes">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:asahwiniprohit@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/CoderXash9">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| AI Behavior Analyzer | AI based behaviour prediction | Python |
+| ChatBot | Intelligent chatbot | HTML CSS JS |
+| Sleep Detection | Detects sleepy eyes | Python OpenCV |
+| PureCalc | Modern Calculator | HTML CSS JS |
+| Resume Analyzer | Resume Parsing using AI | Python |
+| Portfolio Website | Personal Portfolio | HTML CSS JS |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderXash9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXash9&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderXash9&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderXash9&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/CoderXash9/CoderXash9/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⚡ Current Goals
+
+- ✅ Solve 450+ DSA Problems
+- ✅ Master Django
+- ✅ Contribute to Open Source
+- ✅ Build AI Projects
+- ✅ Crack Atlassian Internship
+- ✅ Build a SaaS Product
+
+---
+
+# ✍ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning caffeine into code and ideas into impact."* ☕
+
+</div>
