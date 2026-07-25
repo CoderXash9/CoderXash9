@@ -113,6 +113,8 @@
 | PureCalc | Modern Calculator | HTML CSS JS |
 | Resume Analyzer | Resume Parsing using AI | Python |
 | Portfolio Website | Personal Portfolio | HTML CSS JS |
+| Student-Management-System | A full-stack Student Management System built with Django to manage student records | Python Django DRF SQLite |
+| Contact-Management | A Backend application allowing users to securely manage their personal and professional contacts through REST APIs | Python Git Django |
 
 ---
 
