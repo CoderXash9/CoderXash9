@@ -4,7 +4,7 @@
 
 <img align="right" src="profile.png" width="180">
 
-### 🚀 Software Engineering Student | Backend Developer | Open Source Enthusiast
+### 🚀 Software Engineering | Backend Developer | Open Source Enthusiast
 
 <p>
 
