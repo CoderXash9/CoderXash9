@@ -166,8 +166,8 @@
 
 # ⚡ Current Goals
 
-- ✅ Solve 450+ DSA Problems
-- ✅ Master Django
+- ✅ Solve 450+ DSA Problems on LeetCode
+- ✅ Master Spring Boot
 - ✅ Contribute to Open Source
 - ✅ Build AI Projects
 - ✅ Crack Atlassian Internship
