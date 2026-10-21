@@ -140,32 +140,26 @@
 
 ---
 
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderXash9&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderXash9&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/CoderXash9/CoderXash9/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/CoderXash9/CoderXash9/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
