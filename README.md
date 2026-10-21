@@ -140,18 +140,25 @@
 
 ---
 
-🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderXash9&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/CoderXash9?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github" alt="GitHub Achievements" />
+  </a>
+  <a href="https://github.com/CoderXash9">
+    <img src="https://img.shields.io/badge/View-My%20Profile-2ea44f?style=for-the-badge&logo=github" alt="View my GitHub profile" />
+  </a>
 </p>
 
 ---
 
-📊 Contribution Graph
+# 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderXash9&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/CoderXash9">
+    View my contribution calendar and activity directly on GitHub.
+  </a>
 </p>
 
 ---
