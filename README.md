@@ -134,7 +134,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderXash9&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=CoderXash9&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" />
 
 </p>
 
